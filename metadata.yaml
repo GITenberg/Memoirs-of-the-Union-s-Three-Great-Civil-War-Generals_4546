@@ -1,0 +1,60 @@
+_repo: Memoirs-of-the-Union-s-Three-Great-Civil-War-Generals_4546
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Sheridan, Philip Henry
+    alias: Sheridan, P. H. (Philip Henry)
+    birthdate: 1831
+    deathdate: 1888
+    gutenberg_agent_id: '988'
+    url: http://www.gutenberg.org/2009/agents/988
+    wikipedia: http://en.wikipedia.org/wiki/Philip_Sheridan
+  - agent_name: Grant, Ulysses S. (Ulysses Simpson)
+    aliases:
+    - Grant, U. S. (Ulysses Simpson)
+    - United States President (1869-1877)
+    - Grant, Hiram Ulysses
+    birthdate: 1822
+    deathdate: 1885
+    gutenberg_agent_id: '527'
+    url: http://www.gutenberg.org/2009/agents/527
+    wikipedia: http://en.wikipedia.org/wiki/Ulysses_S._Grant
+  - agent_name: Sherman, William T. (William Tecumseh)
+    aliases:
+    - Sherman, W. T. (William Tecumseh)
+    - Sherman, William Tecumseh
+    birthdate: 1820
+    deathdate: 1891
+    gutenberg_agent_id: '978'
+    url: http://www.gutenberg.org/2009/agents/978
+    wikipedia: http://en.wikipedia.org/wiki/William_Tecumseh_Sherman
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4546'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Grant, Ulysses S. (Ulysses Simpson), 1822-1885'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Campaigns'
+- !lcsh 'Generals -- United States -- Biography'
+- !lcsh 'Sherman, William T. (William Tecumseh), 1820-1891'
+- !lcsh 'United States. Army -- Biography'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Biography'
+- !lcsh 'Sheridan, Philip Henry, 1831-1888'
+- GITenberg
+tableOfContents: The Memoirs of Ulysses S. Grant -- The Memoirs of William T. Sherman
+  -- The Memoirs of Philip H. Sheridan
+title: Memoirs of the Union's Three Great Civil War Generals
+url: http://www.gutenberg.org/ebooks/4546
